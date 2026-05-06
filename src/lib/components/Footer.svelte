@@ -13,56 +13,56 @@
 				</a>
 			</div>
 
-			<!-- Contact -->
+			<!-- Kontakt -->
 			<div>
-				<h4 class="font-mono text-xs uppercase text-muted mb-4">Contact</h4>
+				<h4 class="font-mono text-xs uppercase text-muted mb-4">Kontakt</h4>
 				<ul class="space-y-2 text-xs font-mono text-muted">
-					<li><a href="mailto:hello@parallel.ai" class="hover:text-foreground">hello@parallel.ai</a></li>
+					<li><a href="mailto:info@autoglas-stach.de" class="hover:text-foreground">info@autoglas-stach.de</a></li>
 				</ul>
 			</div>
 
-			<!-- Products -->
+			<!-- Leistungen -->
 			<div>
-				<h4 class="font-mono text-xs uppercase text-muted mb-4">Products</h4>
+				<h4 class="font-mono text-xs uppercase text-muted mb-4">Leistungen</h4>
 				<ul class="space-y-2 text-xs font-mono text-muted">
-					<li><a href="#" class="hover:text-foreground">Search API</a></li>
-					<li><a href="#" class="hover:text-foreground">Extract API</a></li>
-					<li><a href="#" class="hover:text-foreground">Task API</a></li>
-					<li><a href="#" class="hover:text-foreground">FindAll API</a></li>
-					<li><a href="#" class="hover:text-foreground">Chat API</a></li>
-					<li><a href="#" class="hover:text-foreground">Monitor API</a></li>
+					<li><a href="#" class="hover:text-foreground">Steinschlag-Reparatur</a></li>
+					<li><a href="#" class="hover:text-foreground">Scheibentausch</a></li>
+					<li><a href="#" class="hover:text-foreground">Scheiben-Tönung</a></li>
+					<li><a href="#" class="hover:text-foreground">Schutzfolien</a></li>
+					<li><a href="#" class="hover:text-foreground">Mobiler Service</a></li>
+					<li><a href="#" class="hover:text-foreground">Versicherungsabwicklung</a></li>
 				</ul>
 			</div>
 
-			<!-- Resources -->
+			<!-- Informationen -->
 			<div>
-				<h4 class="font-mono text-xs uppercase text-muted mb-4">Resources</h4>
+				<h4 class="font-mono text-xs uppercase text-muted mb-4">Informationen</h4>
 				<ul class="space-y-2 text-xs font-mono text-muted">
-					<li><a href="#" class="hover:text-foreground">About</a></li>
-					<li><a href="#" class="hover:text-foreground">Pricing</a></li>
-					<li><a href="#" class="hover:text-foreground">Docs</a></li>
+					<li><a href="#" class="hover:text-foreground">Über uns</a></li>
+					<li><a href="#" class="hover:text-foreground">Preise</a></li>
+					<li><a href="#" class="hover:text-foreground">FAQ</a></li>
+					<li><a href="#" class="hover:text-foreground">Referenzen</a></li>
 					<li><a href="#" class="hover:text-foreground">Blog</a></li>
-					<li><a href="#" class="hover:text-foreground">Changelog</a></li>
-					<li><a href="#" class="hover:text-foreground">Careers</a></li>
+					<li><a href="#" class="hover:text-foreground">Karriere</a></li>
 				</ul>
 			</div>
 
-			<!-- Info -->
+			<!-- Rechtliches -->
 			<div>
-				<h4 class="font-mono text-xs uppercase text-muted mb-4">Info</h4>
+				<h4 class="font-mono text-xs uppercase text-muted mb-4">Rechtliches</h4>
 				<ul class="space-y-2 text-xs font-mono text-muted mb-8">
-					<li><a href="#" class="hover:text-foreground">Terms of Service</a></li>
-					<li><a href="#" class="hover:text-foreground">Customer Terms</a></li>
-					<li><a href="#" class="hover:text-foreground">Privacy</a></li>
-					<li><a href="#" class="hover:text-foreground">Acceptable Use</a></li>
-					<li><a href="#" class="hover:text-foreground">Trust Center</a></li>
+					<li><a href="#" class="hover:text-foreground">Impressum</a></li>
+					<li><a href="#" class="hover:text-foreground">AGB</a></li>
+					<li><a href="#" class="hover:text-foreground">Datenschutz</a></li>
+					<li><a href="#" class="hover:text-foreground">Nutzungsbedingungen</a></li>
+					<li><a href="#" class="hover:text-foreground">Qualitätsversprechen</a></li>
 				</ul>
 				
-				<!-- SOC 2 Badge -->
+				<!-- Qualitätssiegel Badge -->
 				<div class="w-16 h-16 border-2 border-black rounded-full flex items-center justify-center relative">
 					<div class="absolute inset-0 rounded-full border border-white m-0.5"></div>
 					<div class="text-[8px] font-bold text-center leading-tight">
-						SOC 2<br>TYPE II
+						ZERTIFIZIERTE<br>QUALITÄT
 					</div>
 					<div class="absolute -bottom-1 -right-1 w-4 h-4 bg-black rounded-full flex items-center justify-center text-white text-[8px]">✓</div>
 				</div>
@@ -84,11 +84,11 @@
 				</a>
 				<div class="flex items-center gap-2 ml-4">
 					<span class="w-1.5 h-1.5 bg-green-500 rounded-full"></span>
-					All Systems Operational
+					Service verfügbar
 				</div>
 			</div>
 			<div>
-				Parallel Web Systems Inc. 2025
+				Autoglas Stach GmbH & Co. KG 2025
 			</div>
 		</div>
 	</div>
@@ -106,11 +106,11 @@
 		<div class="relative z-10 flex items-center gap-4 text-[10px] font-mono text-white/50">
 			<div class="flex items-center gap-2 text-white">
 				<span class="w-2 h-2 bg-white rounded-full"></span>
-				HUMAN
+				MENSCH
 			</div>
 			<div class="flex items-center gap-2">
 				<span class="w-2 h-2 border border-white/50 rounded-full"></span>
-				MACHINE
+				MASCHINE
 			</div>
 		</div>
 	</div>

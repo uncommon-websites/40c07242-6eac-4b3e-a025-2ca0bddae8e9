@@ -2,10 +2,10 @@
 	<div class="container-custom">
 		<div class="max-w-4xl mb-12">
 			<h1 class="text-4xl md:text-5xl lg:text-6xl font-medium tracking-tight mb-4">
-				AIs are the web's new user
+				Ihr Spezialist für Autoglas in Franken
 			</h1>
 			<p class="text-2xl md:text-3xl text-muted font-light">
-				The highest accuracy web search <span class="text-accent">for your AI</span>
+				Zuverlässige Autoglas-Reparatur <span class="text-accent">für Ihr Fahrzeug</span>
 			</p>
 		</div>
 
@@ -29,7 +29,7 @@
 
 			<!-- Floating Badge -->
 			<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-white/90 backdrop-blur-sm px-3 py-1.5 rounded-full shadow-lg border border-white/50 flex items-center gap-2 text-xs font-mono">
-				<span>A Parallel Web for AIs</span>
+				<span>Service von Autoglas Stach – Qualität, die überzeugt</span>
 				<div class="w-4 h-4 rounded-full bg-gray-200 overflow-hidden">
 					<img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Felix" alt="Avatar" class="w-full h-full" />
 				</div>
